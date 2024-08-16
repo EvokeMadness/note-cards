@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-29T08:31:19.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="ZkSI4y9shRPSBTcav-vz" version="21.6.8" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="7R-uyUmaOUun2dGPwu6D">
-    <mxGraphModel dx="1036" dy="614" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="758" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -97,8 +97,8 @@
         <mxCell id="Mtz066IXQX0cgxOxFS8G-115" value="Font Size" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="225" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Mtz066IXQX0cgxOxFS8G-117" value="CC BY-SA 4.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="375" width="100.44" height="25" as="geometry" />
+        <mxCell id="Mtz066IXQX0cgxOxFS8G-117" value="© 2023 EvokeMadness CC BY-SA 4.0" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry y="375" width="600" height="25" as="geometry" />
         </mxCell>
         <mxCell id="nHxlUhN6k0jVzTYfP8YC-1" value="Contrast and Accessibility Tool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;shadow=1;fontSize=18;fontColor=#FFFFFF;spacingLeft=18;spacingRight=18;" parent="1" vertex="1">
           <mxGeometry x="350" y="150" width="225" height="75" as="geometry" />
