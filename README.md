@@ -1,11 +1,15 @@
 # Helpful Note Cards
 
 ### Beam and Axle Ruler
-![](resources/beam-axle-ruler.png)
+![](assets/preview-beam-axle-ruler.png)
 
 ### Contrast and Accessibility Tool
 
-![](resources/contrast-accessibility-tool.png)
+![](assets/preview-contrast-accessibility-tool.png)
+
+### Protractor-Ruler Vellum Printable
+
+![](assets/preview-protractor-ruler.png)
 
 ## Instructions
 
