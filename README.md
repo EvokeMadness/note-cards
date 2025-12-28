@@ -2,18 +2,21 @@
 
 
 
-## Document Previews:
+## Document Previews & Downloads:
 
 ### Beam and Axle Ruler
-[`Download`](https://github.com/EvokeMadness/)
+[`Download`](https://github.com/EvokeMadness/note-cards/raw/main/beam-axle-ruler.pdf)
+
 ![](assets/preview-beam-axle-ruler.png)
 
 ### Contrast and Accessibility Tool
-[`Download`](https://github.com/EvokeMadness/)
+[`Download`](https://github.com/EvokeMadness/note-cards/raw/main/contrast-accessibility-tool.pdf)
+
 ![](assets/preview-contrast-accessibility-tool.png)
 
 ### Protractor-Ruler Vellum Printable
-[`Download`](https://github.com/EvokeMadness/)
+[`Download`](https://github.com/EvokeMadness/note-cards/raw/main/protractor-ruler.pdf)
+
 ![](assets/preview-protractor-ruler.png)
 
 ## Instructions
